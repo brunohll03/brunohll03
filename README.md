@@ -6,14 +6,14 @@
 
 ## Sobre mim
 
--QA Engineer com foco em Qualidade de Software e Automação de Testes
--Experiência com Python, Playwright, testes web e aplicações desktop Windows
--Vivência em análise de requisitos, planejamento, estratégia e documentação de testes
--Experiência na elaboração de cenários, casos de teste, evidências e acompanhamento de defeitos
--Conhecimento em estimativas, relatórios de testes e processos de QA em ambientes ágeis
--Certificado CTFL pela ISTQB
--Graduado em Ciência da Computação
--Um fato sobre mim: já morei em Portugal 🇵🇹
+- QA Engineer com foco em Qualidade de Software e Automação de Testes
+- Experiência com Python, Playwright, testes web e aplicações desktop Windows
+- Vivência em análise de requisitos, planejamento, estratégia e documentação de testes
+- Experiência na elaboração de cenários, casos de teste, evidências e acompanhamento de defeitos
+- Conhecimento em estimativas, relatórios de testes e processos de QA em ambientes ágeis
+- Certificado CTFL pela ISTQB
+- Graduado em Ciência da Computação
+- Um fato sobre mim: já morei em Portugal 🇵🇹
 
 # Linguagens e Ferramentas
 
