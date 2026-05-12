@@ -77,4 +77,16 @@
   <img align="center" src="https://img.shields.io/badge/Locust-00C853?style=for-the-badge&logo=python&logoColor=white" alt="locust"/>
 </a>
 
+<a href="https://github.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+</a>
+
+<a href="https://www.atlassian.com/software/jira" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
+</a>
+
+<a href="https://bitbucket.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="bitbucket"/>
+</a>
+
 
