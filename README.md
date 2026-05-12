@@ -11,7 +11,7 @@
 - Experiência com testes em aplicações web e aplicações desktop Windows
 - Conhecimento em APIs REST, Git, GitLab, Docker e integração de testes em pipelines CI/CD
 - Atuação com testes funcionais, regressivos, exploratórios e validação de aplicações
-- Certificado CTFL pela :contentReference[oaicite:0]{index=0}
+- Certificado CTFL pela ISTQB
 - Estou sempre estudando e me atualizando sobre automação, qualidade de software e novas tecnologias
 - Experiência na criação de casos de teste, documentação, Gherkin e análise de requisitos
 - Graduado em Tecnologia com foco em desenvolvimento e qualidade de software
