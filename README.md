@@ -51,20 +51,16 @@
   <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/>
 </a>
 
-<a href="https://www.mysql.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+<a href="https://dbeaver.io/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="dbeaver"/>
 </a>
 
-<a href="https://www.postgresql.org/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+<a href="https://powerbi.microsoft.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerbi"/>
 </a>
 
 <a href="https://code.visualstudio.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vs-code"/>
-</a>
-
-<a href="https://playwright.dev/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright"/>
 </a>
 
 <a href="https://smartbear.com/test-management/zephyr/" target="_blank">
