@@ -47,9 +47,6 @@
 
 <br><br>
 
-<a href="https://www.microsoft.com/windows" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/>
-</a>
 
 <a href="https://dbeaver.io/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="dbeaver"/>
