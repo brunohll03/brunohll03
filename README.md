@@ -22,9 +22,6 @@
   <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/>
 </a>
 
-<br><br>
-
-
 <a href="https://playwright.dev/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright"/>
 </a>
@@ -32,9 +29,6 @@
 <a href="https://pytest.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest"/>
 </a>
-
-<br><br>
-
 
 <a href="https://www.postman.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
@@ -47,9 +41,6 @@
 <a href="https://swagger.io/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="swagger"/>
 </a>
-
-<br><br>
-
 
 <a href="https://locust.io/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Locust-00C853?style=for-the-badge&logo=python&logoColor=white" alt="locust"/>
@@ -66,15 +57,9 @@
   <img align="center" src="https://img.shields.io/badge/Zephyr-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="zephyr"/>
 </a>
 
-<br><br>
-
-
 <a href="https://dbeaver.io/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="dbeaver"/>
 </a>
-
-<br><br>
-
 
 <a href="https://git-scm.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
