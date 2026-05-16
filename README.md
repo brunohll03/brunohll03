@@ -42,6 +42,8 @@
   <img align="center" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="swagger"/>
 </a>
 
+<br><br>
+
 <a href="https://locust.io/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Locust-00C853?style=for-the-badge&logo=python&logoColor=white" alt="locust"/>
 </a>
@@ -49,9 +51,6 @@
 <a href="https://powerbi.microsoft.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerbi"/>
 </a>
-
-<br><br>
-
 
 <a href="https://www.atlassian.com/software/jira" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
@@ -64,6 +63,8 @@
 <a href="https://dbeaver.io/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="dbeaver"/>
 </a>
+
+<br><br>
 
 <a href="https://git-scm.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
