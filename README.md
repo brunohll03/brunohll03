@@ -17,67 +17,136 @@
 
 # Linguagens e Ferramentas
 
+## Linguagens de Programação
+
 <a href="https://www.python.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/>
-</a>
-
-<a href="https://playwright.dev/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright"/>
 </a>
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
   <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
 </a>
 
-<a href="https://www.w3schools.com/html/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+<br><br>
+
+# Automação de Testes
+
+<a href="https://playwright.dev/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright"/>
 </a>
 
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+<a href="https://www.selenium.dev/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
 </a>
 
-<a href="https://git-scm.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+<a href="https://cypress.io/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress"/>
 </a>
 
-<a href="https://www.docker.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+<a href="https://robotframework.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" alt="robotframework"/>
+</a>
+
+<a href="https://pytest.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest"/>
 </a>
 
 <br><br>
 
+# Testes de API
 
-<a href="https://dbeaver.io/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="dbeaver"/>
+<a href="https://www.postman.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
 </a>
 
-<a href="https://powerbi.microsoft.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerbi"/>
+<a href="https://insomnia.rest/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="insomnia"/>
 </a>
 
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vs-code"/>
+<a href="https://swagger.io/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="swagger"/>
+</a>
+
+<br><br>
+
+# Performance e Carga
+
+<a href="https://locust.io/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Locust-00C853?style=for-the-badge&logo=python&logoColor=white" alt="locust"/>
+</a>
+
+<a href="https://jmeter.apache.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="jmeter"/>
+</a>
+
+<br><br>
+
+# Gestão de Testes e Projetos
+
+<a href="https://www.atlassian.com/software/jira" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
 </a>
 
 <a href="https://smartbear.com/test-management/zephyr/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Zephyr-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="zephyr"/>
 </a>
 
-<a href="https://locust.io/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Locust-00C853?style=for-the-badge&logo=python&logoColor=white" alt="locust"/>
+<a href="https://trello.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello"/>
+</a>
+
+<br><br>
+
+# Banco de Dados
+
+<a href="https://dbeaver.io/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="dbeaver"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+</a>
+
+<br><br>
+
+# DevOps e Versionamento
+
+<a href="https://git-scm.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 </a>
 
 <a href="https://github.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 </a>
 
-<a href="https://www.atlassian.com/software/jira" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
-</a>
-
 <a href="https://bitbucket.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="bitbucket"/>
 </a>
 
+<a href="https://www.docker.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+</a>
 
+<a href="https://www.jenkins.io/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
+</a>
+
+<br><br>
+
+# IDEs e Ferramentas de Apoio
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vs-code"/>
+</a>
+
+<a href="https://www.jetbrains.com/pycharm/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="pycharm"/>
+</a>
+
+<a href="https://powerbi.microsoft.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerbi"/>
+</a>
