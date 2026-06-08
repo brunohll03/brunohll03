@@ -11,7 +11,6 @@
 - Vivência em análise de requisitos, planejamento, estratégia e documentação de testes
 - Experiência na elaboração de cenários, casos de teste, evidências e acompanhamento de defeitos
 - Conhecimento em estimativas, relatórios de testes e processos de QA/QC em ambientes ágeis
-- Certificado CTFL pela ISTQB
 - Graduado em Ciência da Computação
 - Um fato sobre mim: já morei em Portugal 🇵🇹
 
